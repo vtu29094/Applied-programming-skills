@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29094/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29094/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/vtu29094/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/vtu29094/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29094/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29094/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29094/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu29094/Applied-programming-skills/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/vtu29094/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/vtu29094/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29094/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29094/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29094/Applied-programming-skills/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vtu29094/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
